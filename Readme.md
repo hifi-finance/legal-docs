@@ -8,6 +8,7 @@ This repository contains a collection of various legal documents related to the 
 2. [HIP3](#hip3)
 3. [Intellectual Property Agreements](#intellectual-property-agreements)
 4. [Mainframe Service Agreements](#mainframe-service-agreements)
+5. [HIP7](#hip7)
 
 ---
 
@@ -20,7 +21,7 @@ This repository contains a collection of various legal documents related to the 
 
 ### HIP3
 
-- [HIFIDAO FVLLC Contract.pdf](./HIP3/HIFIDAO%20FVLLC%20Contract.pdf)
+- [HIFIDAO x FVLLC VWMBp Agreement of Association](./HIP3/HIFIDAO%20FVLLC%20Contract.pdf)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -35,6 +36,12 @@ This repository contains a collection of various legal documents related to the 
 ### Mainframe Service Agreements
 
 - [Mainframe Hifi Service Contract Redacted.pdf](./Mainframe%20Service%20Agreements/Mainframe%20Hifi%20Service%20Contract%20Redacted.pdf)
+
+---
+
+### HIP7
+
+- [HIFI DAO x FVLLC CRE1p Agreement of Association](./HIP7/Hifi%20DAO%20x%20FVLLC%20CRE1p.pdf)
 
 ---
 
