@@ -45,6 +45,13 @@ This repository contains a collection of various legal documents related to the 
 
 ---
 
+
+### HIP8
+- [Hifi DAO Designee Agreement](./HIP8/Hifi%20DAO%20Designee%20Agreement.pdf)
+- [Hifi DAO Lending Partner Agreement](./HIP8/Hifi%20DAO%20Lending%20Partner%20Agreement.pdf)
+
+---
+
 ## Contribution
 
 If you have any questions or contributions, please open an issue or submit a pull request.
