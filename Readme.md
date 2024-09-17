@@ -9,6 +9,8 @@ This repository contains a collection of various legal documents related to the 
 3. [Intellectual Property Agreements](#intellectual-property-agreements)
 4. [Mainframe Service Agreements](#mainframe-service-agreements)
 5. [HIP7](#hip7)
+6. [HIP8](#hip8)
+7. [HIP10](#hip10)
 
 ---
 
@@ -45,10 +47,14 @@ This repository contains a collection of various legal documents related to the 
 
 ---
 
-
 ### HIP8
 - [Hifi DAO Designee Agreement](./HIP8/Hifi%20DAO%20Designee%20Agreement.pdf)
 - [Hifi DAO Lending Partner Agreement](./HIP8/Hifi%20DAO%20Lending%20Partner%20Agreement.pdf)
+
+---
+
+### HIP10
+- [Resolution to Appoint DAO Manager](./HIP10/Resolution%20to%20Appoint%20DAO%20Manager.pdf)
 
 ---
 
