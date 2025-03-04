@@ -11,6 +11,7 @@ This repository contains a collection of various legal documents related to the 
 5. [HIP7](#hip7)
 6. [HIP8](#hip8)
 7. [HIP10](#hip10)
+8. [HIP15](#hip15)
 
 ---
 
@@ -24,8 +25,6 @@ This repository contains a collection of various legal documents related to the 
 ### HIP3
 
 - [HIFIDAO x FVLLC VWMBp Agreement of Association](./HIP3/HIFIDAO%20FVLLC%20Contract.pdf)
-
-[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -58,6 +57,5 @@ This repository contains a collection of various legal documents related to the 
 
 ---
 
-## Contribution
-
-If you have any questions or contributions, please open an issue or submit a pull request.
+### HIP15
+- [Mainframe Hifi Service Contract 2.pdf](./HIP15/Mainframe%20Hifi%20Service%20Contract%202.pdf)
