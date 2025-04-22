@@ -12,6 +12,7 @@ This repository contains a collection of various legal documents related to the 
 6. [HIP8](#hip8)
 7. [HIP10](#hip10)
 8. [HIP15](#hip15)
+9. [HIP16](#hip16)
 
 ---
 
@@ -59,3 +60,6 @@ This repository contains a collection of various legal documents related to the 
 
 ### HIP15
 - [Mainframe Hifi Service Contract 2.pdf](./HIP15/Mainframe%20Hifi%20Service%20Contract%202.pdf)
+
+### HIP16
+- [Mainframe Hifi Service Contract 3.pdf](./HIP16/Mainframe%20Hifi%20Service%20Contract%203.pdf)
